@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Currently working on Telesynergy<br>🤖 Passionate about Machine Learning (ML) and Artificial Intelligence (AI) projects<br>📚 Currently learning Data Structures and Algorithms<br>🛠 Experienced in C, C++, Python.
+💼 I am currently working on Telesynergy<br>🤖 Passionate about Machine Learning (ML) and Artificial Intelligence (AI) projects<br>📚 Currently learning Data Structures and Algorithms<br>🛠 Experienced in C, C++, Python.
 
 
 ## 🌐 Socials:
